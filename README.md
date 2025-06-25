@@ -20,7 +20,6 @@
 |--------------------|----------|  
 | Raspberry Pi 4     | 1        |  
 | DHT11 Sensor       | 1        |  
-| HC-SR04 Ultrasonic Sensor | 1 |  
 | LED (Any Color)    | 1        |  
 | 220Ω Resistor      | 1        |  
 | Breadboard & Jumper Wires | As needed |  
